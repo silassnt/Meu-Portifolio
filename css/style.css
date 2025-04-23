@@ -115,6 +115,7 @@ header {
   padding: 2rem;
   background-color: #fff;
   text-align: center;
+  border-radius: 10px;
 }
 
 .projeto img {
